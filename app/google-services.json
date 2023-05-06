@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381792287004",
+    "firebase_url": "https://safna-org-default-rtdb.firebaseio.com",
+    "project_id": "safna-org",
+    "storage_bucket": "safna-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381792287004:android:1bf7d6de6366b0c0bbe2d9",
+        "android_client_info": {
+          "package_name": "com.example.safna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381792287004-cm2cgd9qc3rusa006qsea9446ndbgf4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSoTc_zx-UWUuPP02HMLFjVYNiyKRxfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381792287004-cm2cgd9qc3rusa006qsea9446ndbgf4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
