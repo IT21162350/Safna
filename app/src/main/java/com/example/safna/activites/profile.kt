@@ -1,11 +1,15 @@
-package com.example.safna
+package com.example.safna.activites
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.safna.R
 
-class addEmp : AppCompatActivity() {
+
+class profile : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_add_emp)
+        setContentView(R.layout.activity_profile)
+
+
     }
 }

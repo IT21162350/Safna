@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Safna</string>
+    <string name="uname">Username:</string>
+
 </resources>

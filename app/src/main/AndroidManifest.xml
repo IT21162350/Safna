@@ -12,16 +12,19 @@
         android:theme="@style/Theme.Safna"
         tools:targetApi="31">
         <activity
-            android:name=".addEmp"
+            android:name=".activites.empList"
             android:exported="false" />
         <activity
-            android:name=".profile"
+            android:name=".activites.addEmp"
             android:exported="false" />
         <activity
-            android:name=".employer"
+            android:name=".activites.profile"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activites.employer"
+            android:exported="false" />
+        <activity
+            android:name=".activites.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
